@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alquiler de bicicletas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Alquiler de bicicletas</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Bicicletas disponibles</a></li>
+        <li><a href="#">Reservas</a></li>
+        <li><a href="#">Ubicación</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Filtrar bicicletas</h2>
+      <form id="filter-form" class="filter-form">
+        <label for="title-input">Título:</label>
+        <input type="text" id="title-input">
+
+        <label for="price-input">Precio máximo:</label>
+        <input type="number" id="price-input" min="0" step="1">
+
+        <button type="submit">Filtrar</button>
+      </form>
+    </section>
+    <section>
+      <h2>Bicicletas disponibles para alquiler</h2>
+      <div id="bicycles" class="bicycles-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Alquiler de bicicletas. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>

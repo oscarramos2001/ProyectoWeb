@@ -1,0 +1,75 @@
+{
+    "bicycles": [
+      {
+        "nombre": "Bicicleta 1",
+        "imagen": "img/1-bici.jpg",
+        "titulo": "Bicicleta de montaña",
+        "descripcion": "Descripción de la bicicleta de montaña.",
+        "precio": 15
+      },
+      {
+        "nombre": "Bicicleta 2",
+        "imagen": "img/2-bici.jpg",
+        "titulo": "Bicicleta urbana",
+        "descripcion": "Descripción de la bicicleta urbana.",
+        "precio": 10
+      },
+      {
+        "nombre": "Bicicleta 3",
+        "imagen": "img/3-bici.jpg",
+        "titulo": "Bicicleta plegable",
+        "descripcion": "Descripción de la bicicleta plegable.",
+        "precio": 20
+      },
+      {
+        "nombre": "Bicicleta 4",
+        "imagen": "img/4-bici.jpg",
+        "titulo": "Bicicleta de carrera",
+        "descripcion": "Descripción de la bicicleta de carrera.",
+        "precio": 25
+      },
+      {
+        "nombre": "Bicicleta 5",
+        "imagen": "img/5-bici.jpg",
+        "titulo": "Bicicleta para niños",
+        "descripcion": "Descripción de la bicicleta para niños.",
+        "precio": 12
+      },
+      {
+        "nombre": "Bicicleta 6",
+        "imagen": "img/6-bici.jpg",
+        "titulo": "Bicicleta de ciudad",
+        "descripcion": "Descripción de la bicicleta de ciudad.",
+        "precio": 18
+      },
+      {
+        "nombre": "Bicicleta 7",
+        "imagen": "img/7-bici.jpg",
+        "titulo": "Bicicleta eléctrica",
+        "descripcion": "Descripción de la bicicleta eléctrica.",
+        "precio": 30
+      },
+      {
+        "nombre": "Bicicleta 8",
+        "imagen": "img/8-bici.jpg",
+        "titulo": "Bicicleta BMX",
+        "descripcion": "Descripción de la bicicleta BMX.",
+        "precio": 15
+      },
+      {
+        "nombre": "Bicicleta 9",
+        "imagen": "img/9-bici.jpg",
+        "titulo": "Bicicleta de turismo",
+        "descripcion": "Descripción de la bicicleta de turismo.",
+        "precio": 22
+      },
+      {
+        "nombre": "Bicicleta 10",
+        "imagen": "img/10-bici.jpg",
+        "titulo": "Bicicleta de carga",
+        "descripcion": "Descripción de la bicicleta de carga.",
+        "precio": 35
+      }
+    ]
+  }
+  
